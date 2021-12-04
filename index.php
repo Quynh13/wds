@@ -1,0 +1,1 @@
+<?php header( 'D:\WDS\F8\w3shchool the band:/ index.html' ) ; ?>
